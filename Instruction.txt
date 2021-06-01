@@ -1,0 +1,3 @@
+The file of the game is available here :"https://we.tl/t-PcQO3NkUI0".
+The game is in the file "FinalGame" and is name "Survivor.pck". You can try to lunch it on linux.
+The code is available in the file "Projets2-master.zip" for this one you need to open with Godot Engine (https://godotengine.org/download).
